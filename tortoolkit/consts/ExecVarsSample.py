@@ -15,7 +15,7 @@ except:
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [1643461164,-1001547903013]
-        OWNER_ID = 0
+        OWNER_ID = 0AANfXwvUlcQsUk9PVA
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
